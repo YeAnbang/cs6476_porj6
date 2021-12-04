@@ -1,0 +1,15 @@
+setup.py
+CSx476_Fall2021_proj6.egg-info/PKG-INFO
+CSx476_Fall2021_proj6.egg-info/SOURCES.txt
+CSx476_Fall2021_proj6.egg-info/dependency_links.txt
+CSx476_Fall2021_proj6.egg-info/requires.txt
+CSx476_Fall2021_proj6.egg-info/top_level.txt
+proj6_code/__init__.py
+proj6_code/student_code.py
+proj6_code/utils.py
+proj6_code/proj6_unit_tests/__init__.py
+proj6_code/proj6_unit_tests/test_base.py
+proj6_code/proj6_unit_tests/test_intersection.py
+proj6_code/proj6_unit_tests/test_my_objectron.py
+proj6_code/proj6_unit_tests/test_pose_estimate.py
+proj6_code/proj6_unit_tests/test_utils.py
